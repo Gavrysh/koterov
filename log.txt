@@ -1,0 +1,4 @@
+[01-Aug-2018 14:35:40 Europe/Helsinki] PHP Warning:  filemtime(): stat failed for spoon in /var/www/kot.local/er.php on line 12
+[01-Aug-2018 14:35:40 Europe/Helsinki] PHP Stack trace:
+[01-Aug-2018 14:35:40 Europe/Helsinki] PHP   1. {main}() /var/www/kot.local/er.php:0
+[01-Aug-2018 14:35:40 Europe/Helsinki] PHP   2. filemtime() /var/www/kot.local/er.php:12
