@@ -1,0 +1,156 @@
+Football Manager 2014
+=====================
+
+Table of Contents
+
+1. System Requirements
+2. Installing this software
+3. Technical Support
+4. Licensing Information
+
+------------------------------------------------
+1. System Requirements
+------------------------------------------------
+Your computer must meet the following system requirements to run this game.
+The game may not run, or you may experience decreased performance on 
+computers that do not fulfil these requirements.
+
+Windows XP, Vista, 7, 8 
+------------------------
+Processor:
+Intel Pentium 4
+Intel Core
+AMD Athlon
+XP:  1.6GHz+
+V/7/8:  2.2GHz+
+
+Graphics:
+NVidia GeForce FX 5900 Ultra
+ATI Radeon 9800
+Intel GMA X3100
+128MB VRAM
+Direct X 9.0c compliant 
+
+Memory:
+1GB RAM
+3GB HDD 
+
+Mac OS X 10.6, 10.7, 10.8
+-------------------------
+Processor:
+Intel Core
+1.8GHz+
+
+Graphics:
+NVidia GeForce 7300 GT
+ATI Radeon X1600
+Intel GMA X3100
+128MB VRAM
+OpenGL 2.0 compliant 
+
+Memory:
+1GB RAM
+3GB HDD 
+
+Ubuntu 12.04 LTS Linux
+-----------------------
+Processor:
+Intel Pentium 4
+Intel Core
+AMD Athlon
+1.8GHz+
+
+Graphics:
+NVidia GeForce 7300 GT
+AMD Radeon HD 2400 Pro
+Intel HD 3000/4000
+128MB VRAM
+OpenGL 2.0 compliant
+
+Memory:
+1GB RAM
+3GB HDD 
+
+Earlier cards may only display 2D Match Viewer Mode and are not supported. 
+Earlier cards may require the DirectX 9.0 SDK is installed to run the game. This can be downloaded from the following url:
+http://tinyurl.com/6m9mxo
+Laptop versions of these chipsets may work but are not supported.
+
+Note: The game's performance and/or graphical quality may differ according 
+to your computer's hardware and/or video card. Computers with high-performance 
+hardware will provide the best game performance.
+
+
+------------------------------------------------
+2. Installing This Software
+------------------------------------------------
+
+Windows / Mac OS X
+-------------------
+Insert the Football Manager™ 2014 disc into your DVD drive and wait for the autoplay program to begin.
+From here, follow the simple on-screen steps to install the game.
+
+Linux
+------
+Open a web browser to http://store.steampowered.com/, and click the "Install Steam" link.
+Once installed, run Steam and select Games->Activate a Product on Steam, then enter the CD key supplied.
+
+Football Manager 2014™ requires Steam for PC, Mac and Linux. Steam is an online system that will
+automatically update your game if there are patches or data updates available, and also provides exclusive
+downloads and “achievements” for Football Manager 2014™ to track how you are doing in the game
+compared to your friends. You can also play the game on any computer that has an internet connection
+without needing the DVD.
+
+
+
+------------------------------------------------
+3. Technical Support
+------------------------------------------------
+
+Please ensure you check www.sigames.com regularly for details on updates 
+for your game
+
+If you need further technical assistance after reading the Readme file 
+and Sports Interactive website, please do not hesitate to contact us 
+using any of the methods listed below.
+
+When contacting us, please be sure to provide us with as much information 
+as possible. Make sure to note the exact type of hardware that you are 
+using in your system, including: your sound card, DVD-ROM drive, amount 
+of RAM present, speed and manufacturer of your processor. Also, make sure 
+to include the title and version of the game, and a detailed description of 
+the problem.
+
+If you are playing the Windows version, it will also help if you prepare 
+by creating a "DXDiag" diagnostic file in Windows before you call us. To do 
+this, simply follow these instructions:
+
+i) Click on Start
+ii) Click on Run
+iii) Type "dxdiag"
+iv) Click on OK 
+v) Click on the "Save All Information" button and save the file 
+
+When you call our Technical Support line either have this file open or have 
+a printed copy. If you send an e-mail query you may attach the file to the 
+e-mail.
+
+Technical Support Contact Details (Europe):
+
+info@segahelp.com
+www.sega-europe.com
+
+Technical Support Contact Details (North America):
+
+www.sega.com/support
+
+SEGA - 12-09-07 / Ver. 1.1.19
+
+--------------------------------------------------
+4. Additional Licensing Information
+--------------------------------------------------
+
+© Sports Interactive Limited. Published by SEGA Publishing Europe Limited. Developed by Sports Interactive Limited. SEGA and the SEGA logo are either registered trade marks or trade marks of SEGA Corporation. Sports Interactive, the Sports Interactive logo, Football Manager and the Football Manager logo are either registered trade marks or trade marks of Sports Interactive Limited. All rights reserved. 
+
+
+
