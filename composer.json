@@ -1,0 +1,16 @@
+{
+    "name": "gases/kot.local",
+    "type": "project",
+    "authors": [
+        {
+            "name": "GaSeS",
+            "email": "very.nice@ukr.net"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "monolog/monolog": "1.17.*",
+        "psy/psysh": "*",
+        "robmorgan/phinx": "*"
+    }
+}
