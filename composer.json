@@ -1,5 +1,8 @@
 {
-    "name": "gases/kot.local",
+    "name": "gases/pager",
+    "description": "A library to split results into multiple pages",
+    "keywords": ["pager", "paginator", "pagination"],
+    "license": "MIT",
     "type": "project",
     "authors": [
         {
@@ -9,8 +12,11 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "monolog/monolog": "1.17.*",
-        "psy/psysh": "*",
-        "robmorgan/phinx": "*"
+        "php": ">=7.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "GSPager\\": "src/"
+        }
     }
 }
