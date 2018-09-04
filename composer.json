@@ -11,6 +11,7 @@
     "require": {
         "monolog/monolog": "1.17.*",
         "psy/psysh": "*",
-        "robmorgan/phinx": "*"
+        "robmorgan/phinx": "*",
+        "squizlabs/php_codesniffer": "*"
     }
 }
