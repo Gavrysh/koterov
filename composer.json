@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "GSPager\\": "src/"
+            "GSPager\\": "src/GSPager/"
         }
     }
 }
