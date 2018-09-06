@@ -1,0 +1,45 @@
+[
+    {
+        "name": "gases/pager",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/Gavrysh/pager.git",
+            "reference": "121c8c9e2e53bcb03df2ed45f4fa867e97552d67"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/Gavrysh/pager/zipball/121c8c9e2e53bcb03df2ed45f4fa867e97552d67",
+            "reference": "121c8c9e2e53bcb03df2ed45f4fa867e97552d67",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=7.0.0"
+        },
+        "time": "2018-09-06T17:40:13+00:00",
+        "type": "project",
+        "installation-source": "source",
+        "autoload": {
+            "psr-4": {
+                "GSPager\\": "src/GSPager/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "GaSeS",
+                "email": "very.nice@ukr.net"
+            }
+        ],
+        "description": "A library to split results into multiple pages",
+        "keywords": [
+            "pager",
+            "pagination",
+            "paginator"
+        ]
+    }
+]

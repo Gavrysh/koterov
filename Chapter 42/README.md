@@ -1,6 +1,5 @@
 # GSPager
-[![Software License](https://img.shields.io/badge/license-MIT-
-brightgreen.svg?style=flat-square)](LICENSE.md)
+[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
 A library to split results into multiple pages
 ## Install
 Via Composer
