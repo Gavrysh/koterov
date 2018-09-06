@@ -1,0 +1,8 @@
+{
+    "name": "gases/kot.local",
+    "type": "project",
+    "minimum-stability": "dev",
+    "require": {
+        "gases/pager": "*"
+    }
+}

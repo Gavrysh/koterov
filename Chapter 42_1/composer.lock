@@ -1,0 +1,59 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "d9fa4dc38a6fdc3ffbec9556f912fd97",
+    "packages": [
+        {
+            "name": "gases/pager",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/Gavrysh/pager.git",
+                "reference": "121c8c9e2e53bcb03df2ed45f4fa867e97552d67"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Gavrysh/pager/zipball/121c8c9e2e53bcb03df2ed45f4fa867e97552d67",
+                "reference": "121c8c9e2e53bcb03df2ed45f4fa867e97552d67",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.0.0"
+            },
+            "type": "project",
+            "autoload": {
+                "psr-4": {
+                    "GSPager\\": "src/GSPager/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "GaSeS",
+                    "email": "very.nice@ukr.net"
+                }
+            ],
+            "description": "A library to split results into multiple pages",
+            "keywords": [
+                "pager",
+                "pagination",
+                "paginator"
+            ],
+            "time": "2018-09-06T17:40:13+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
