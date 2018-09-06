@@ -65,10 +65,10 @@ abstract class Pager
     public function getPagesCount()
     {
         // Кількість позицій
-        $tolal = $this->getItemsCount();
+        $total = $this->getItemsCount();
 
         // Обчислюємо кількість сторінок
-        $result = (int) ($tolal/$this->getItemsPerPage());
+        $result = (int) ($total/$this->getItemsPerPage());
         if ((float) ($total/$this->getItemsPerPage()) - $result != 0) {
             ++$result;
         }

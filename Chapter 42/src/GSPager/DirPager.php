@@ -32,7 +32,7 @@ class DirPager extends Pager
 
         // Відкриваємо каталог
         if (($dir = opendir($this->dirname)) !== false) {
-            while (($file = readdir(dir)) !== false) {
+            while (($file = readdir($dir)) !== false) {
                 // Якщо поточна позиція є файлом, підраховуємо її
                 if (is_file($this->dirname.'/'.$file)) {
                     ++$countline;
